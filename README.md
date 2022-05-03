@@ -8,11 +8,11 @@ A website using local storage to create a daily schedule planner with color cord
 
 ## Languages
 
-HTML
-CSS
-Bootstrap
-Javascript 
-JQuery
+- HTML
+- CSS
+- Bootstrap
+- Javascript 
+- JQuery
 
 ## Deployment
 
